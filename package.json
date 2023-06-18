@@ -2,6 +2,10 @@
   "name": "store-api",
   "version": "1.0.0",
   "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
   "repository": "git@github.com:OmarMWarraich/store-api.git",
   "author": "OmarMWarraich <earthling986@gmail.com>",
   "license": "MIT",
